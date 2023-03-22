@@ -1,0 +1,2 @@
+# .github
+We make things.
