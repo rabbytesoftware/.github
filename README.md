@@ -1,2 +1,3 @@
-# .github
-We make things.
+# Rabbyte Software
+
+We are Rabbyte, we usually make stuff. 
